@@ -1,0 +1,25 @@
+* {
+    font-family: Oxygen;
+}
+.navbar {
+background: #213452;
+/* background: #2D1E2F; */
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+nav .navbar-nav {
+    flex-direction: row;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+.nav-link {
+    margin: auto;
+    color: white;
+    padding-left: 2.7rem;
+    text-transform: uppercase;
+}
+a:hover {
+    color: #F6AE2D;
+}

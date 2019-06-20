@@ -11,6 +11,8 @@ import { ContactComponent } from './components/contact/contact.component';
 import { MenComponent } from './components/men/men.component';
 import { WomenComponent } from './components/women/women.component';
 import { AccessoriesComponent } from './components/accessories/accessories.component';
+import { NavComponent } from './components/nav/nav.component';
+import { FooterComponent } from './components/footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +22,9 @@ import { AccessoriesComponent } from './components/accessories/accessories.compo
     ContactComponent,
     MenComponent,
     WomenComponent,
-    AccessoriesComponent
+    AccessoriesComponent,
+    NavComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,

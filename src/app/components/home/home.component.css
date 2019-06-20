@@ -1,0 +1,30 @@
+*{
+    font-family: Oxygen;
+}
+#body {
+    /* background: #231651; */
+    background: #355691;
+    height: 100%;
+}
+.logo {
+    text-align: center;
+    padding-top: 5rem;
+    margin-bottom: 5rem;
+    color: #F6AE2D;
+    
+}
+.logo h1 {
+    font-size: 3.5rem;
+}
+.container-fluid {
+    width: 95%;
+    height: 90vh;
+}
+.grid {
+    height: 60rem;
+}
+mat-grid-list {
+    box-sizing: border-box;
+    background: center cover;
+}
+

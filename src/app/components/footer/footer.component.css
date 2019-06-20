@@ -1,0 +1,20 @@
+.footer-copyright {
+    background:#99CA34;
+    color: white;
+}
+
+.body {
+    background: #000F16;
+    color:white;
+}
+a {
+    text-decoration: none;
+    color: honeydew;
+}
+a:hover {
+    color:greenyellow;
+}
+
+/* * {
+    font-family: 'Raleway', sans-serif;
+} */
